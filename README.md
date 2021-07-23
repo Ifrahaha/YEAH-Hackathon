@@ -40,8 +40,8 @@ Saved Model File : https://drive.google.com/file/d/1VazjtXP3cS6iSHJ-ohP19Adu2bXx
 
 #### Get the code
 ```
-$ git clone https://github.com/Zahid8/NextStep-Hacks-2.0.git
-$ cd NextStep-Hacks-2.0
+$ git clone git@github.com:Ifrahaha/YEAH-Hackathon.git
+$ cd YEAH-Hackathon
 ```
 ##### Download the saved model from [here](https://drive.google.com/file/d/1VazjtXP3cS6iSHJ-ohP19Adu2bXxTV4V/view?usp=sharing) and paste it into the same directory as the cloned git repository.
 
